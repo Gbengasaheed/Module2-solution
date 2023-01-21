@@ -13,8 +13,9 @@ h1 {
  section, p { 
 	
 	background-color: gray;
+	margin-left: auto;
+	margin-right: auto;
 	width: 100;
-
 	padding: 5px;
 	font-family: Helvetica;
 	color: black;
@@ -35,25 +36,21 @@ div .doll {
 	height:12%;
 	text-align: center;
 	margin-top: 0;
-	box-sizing: border-box;
-
-	
 	background-color: #DEB887;
 	position: absolute;
 	top: 0;
 	right: 0;
-	
-	
 	}
+
+
 
 	div .boll {
 	border: 1px solid black;
 	padding: 5px;
 	width: 25%;
-	height:12%;
+	height:15;
 	text-align: center;
 	margin-top: 0;
-	
 	background-color: #FF7F50;
 	position: absolute;
 	top: 0;
@@ -66,17 +63,16 @@ div .toll {
 	border: 1px solid black;
 	padding: 5px;
 	width: 25%;
-	height:12%;
+	height:15%;
 	text-align: center;
 	margin-top: 0;
-	
 	background-color: yellow;
 	position: absolute;
 	top: 0;
 	right: 0;
 	
 	
-	}
+	}  
 
 
 .row{
