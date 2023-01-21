@@ -32,7 +32,7 @@ div > section {
 	}
 div .doll {
 	border: 1px solid black;
-	padding: 10px;
+	padding: 15px;
 	width: 25%;
 	height:12%;
 	text-align: center;
@@ -48,7 +48,7 @@ div .doll {
 
 	div .boll {
 	border: 1px solid black;
-	padding: 10px;
+	padding: 15px;
 	width: 25%;
 	height:12;
 	text-align: center;
@@ -64,9 +64,9 @@ div .doll {
 
 div .toll {
 	border: 1px solid black;
-	padding: 12px;
+	padding: 15px;
 	width: 25%;
-	height:10%;
+	height:12%;
 	text-align: center;
 	margin-top: 0;
 	
