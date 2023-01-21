@@ -36,6 +36,7 @@ div .doll {
 	height:10%;
 	text-align: center;
 	margin-top: 0;
+	margin-bottom: auto; 
 	background-color: #DEB887;
 	position: absolute;
 	top: 0;
@@ -51,6 +52,7 @@ div .doll {
 	height:10;
 	text-align: center;
 	margin-top: 0;
+	margin-bottom: auto;
 	background-color: #FF7F50;
 	position: absolute;
 	top: 0;
@@ -66,6 +68,7 @@ div .toll {
 	height:10%;
 	text-align: center;
 	margin-top: 0;
+	margin-bottom: auto;
 	background-color: yellow;
 	position: absolute;
 	top: 0;
