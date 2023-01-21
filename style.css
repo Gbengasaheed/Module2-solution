@@ -34,10 +34,10 @@ div .doll {
 	border: 1px solid black;
 	padding: 10px;
 	width: 25%;
-	height:10%;
+	height:12%;
 	text-align: center;
 	margin-top: 0;
-	margin-bottom: 10px; 
+	 
 	background-color: #DEB887;
 	position: absolute;
 	top: 0;
@@ -50,10 +50,10 @@ div .doll {
 	border: 1px solid black;
 	padding: 10px;
 	width: 25%;
-	height:10;
+	height:12;
 	text-align: center;
 	margin-top: 0;
-	margin-bottom: 10px;
+	
 	background-color: #FF7F50;
 	position: absolute;
 	top: 0;
@@ -64,12 +64,12 @@ div .doll {
 
 div .toll {
 	border: 1px solid black;
-	padding: 10px;
+	padding: 12px;
 	width: 25%;
 	height:10%;
 	text-align: center;
 	margin-top: 0;
-	margin-bottom: 10px;
+	
 	background-color: yellow;
 	position: absolute;
 	top: 0;
